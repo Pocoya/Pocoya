@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Morteza
 - 💁 I'm a Computer Science student at the Faculty of Engineering at Lund University 
+- 🍻 My graduation date: June 2025
 - 🌱 I’m currently learning Java 🙂
 - 👀 I’m interested in contributing to more open source projects and thus get more exprience
 - 💞️ I’m looking to collaborate with other content creators 
