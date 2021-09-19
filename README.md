@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java 🙂
 - 👀 I’m interested in contributing to more open source projects and thus get more exprience
 - 💞️ I’m looking to collaborate with other content creators 
-- My current goal is to contribute to more open source projects
 - 📫 How to reach me ...
 
 <!---
