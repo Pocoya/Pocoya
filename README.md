@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Morteza
-- 💁 I'm a Computer Science student at the Faculty of Engineering (LTH) of Lund University 
+- 💁 I'm a Computer Science student at the Faculty of Engineering at Lund University 
 - 🌱 I’m currently learning Java 🙂
 - 👀 I’m interested in contributing to more open source projects and thus get more exprience
 - 💞️ I’m looking to collaborate with other content creators 
