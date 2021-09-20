@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java 🙂
 - 👀 I’m interested in contributing to more open source projects and thus get more exprience
 - 💞️ I’m looking to collaborate with other content creators 
-- 📫 How to reach me ...
+- 📫 How to reach me: https://www.linkedin.com/in/morteza-rezaei-899b47220/
 
 <!---
 Pocoya/Pocoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
