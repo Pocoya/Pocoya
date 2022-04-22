@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Morteza
 - 💁 I'm a Computer Science student at the Faculty of Engineering at Lund University 
-- 🍻 My graduation date: June 2025
-- 🌱 I’m currently learning Java, Python and C++ 🙂
+- 🍻 Graduation date: June 2025
+- 🌱 Currently learning Java, Python and C++ 🙂
 - 👀 I’m interested in contributing to more open source projects and thus get more exprience
-- 💞️ I’m looking to collaborate with other content creators 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/morteza-rezaei-899b47220/)
 
 <!---
